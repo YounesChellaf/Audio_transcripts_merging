@@ -1,0 +1,2236 @@
+﻿{
+    "id": "96bdb899-59f0-40e3-a5d2-8b32bbcd798a",
+    "recordId": "timo_1601456620284_924193425",
+    "filename": "speaker2.wav",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk2",
+            "name": "Speaker 2"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk2",
+            "words": [
+                {
+                    "start": 0.39,
+                    "end": 0.72,
+                    "duration": 0.33000004,
+                    "text": "Herzlich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 0.72,
+                    "end": 1.02,
+                    "duration": 0.29999995,
+                    "text": "willkommen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.02,
+                    "end": 1.11,
+                    "duration": 0.09000003,
+                    "text": "bei",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.11,
+                    "end": 1.2,
+                    "duration": 0.09000003,
+                    "text": "der",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.2,
+                    "end": 1.8,
+                    "duration": 0.5999999,
+                    "text": "Dienstleistungs",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 1.8,
+                    "end": 2.01,
+                    "duration": 0.21000004,
+                    "text": "AG.",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 2.1,
+                    "end": 2.28,
+                    "duration": 0.18000007,
+                    "text": "Sie",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.28,
+                    "end": 2.64,
+                    "duration": 0.36000013,
+                    "text": "sprechen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.64,
+                    "end": 2.73,
+                    "duration": 0.089999914,
+                    "text": "mit",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.73,
+                    "end": 3,
+                    "duration": 0.26999998,
+                    "text": "Petra",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3,
+                    "end": 3.39,
+                    "duration": 0.3900001,
+                    "text": "Schneider.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 6.53,
+                    "end": 6.76,
+                    "duration": 0.23000002,
+                    "text": "Hallo!",
+                    "conf": 0.93,
+                    "pristine": true
+                },
+                {
+                    "start": 9.49,
+                    "end": 9.85,
+                    "duration": 0.3600006,
+                    "text": "Ja,",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 10.75,
+                    "end": 10.87,
+                    "duration": 0.119999886,
+                    "text": "die.",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 19.32,
+                    "end": 19.47,
+                    "duration": 0.14999962,
+                    "text": "Die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 19.47,
+                    "end": 19.62,
+                    "duration": 0.15000153,
+                    "text": "sind",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 19.62,
+                    "end": 19.8,
+                    "duration": 0.1799984,
+                    "text": "noch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 19.8,
+                    "end": 20.01,
+                    "duration": 0.21000099,
+                    "text": "nicht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 20.01,
+                    "end": 20.61,
+                    "duration": 0.6000004,
+                    "text": "angekommen.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 21.42,
+                    "end": 21.6,
+                    "duration": 0.1800003,
+                    "text": "Dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 21.6,
+                    "end": 21.84,
+                    "duration": 0.23999977,
+                    "text": "schaue",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 21.84,
+                    "end": 22.05,
+                    "duration": 0.20999908,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.05,
+                    "end": 22.41,
+                    "duration": 0.3600006,
+                    "text": "gerne",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.41,
+                    "end": 22.56,
+                    "duration": 0.14999962,
+                    "text": "mal",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.56,
+                    "end": 22.98,
+                    "duration": 0.42000008,
+                    "text": "nach,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 24.09,
+                    "end": 24.42,
+                    "duration": 0.32999992,
+                    "text": "wie",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 24.42,
+                    "end": 24.54,
+                    "duration": 0.12000084,
+                    "text": "der",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 24.54,
+                    "end": 25.02,
+                    "duration": 0.47999954,
+                    "text": "aktuelle",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.02,
+                    "end": 25.38,
+                    "duration": 0.3599987,
+                    "text": "Stand",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.38,
+                    "end": 25.5,
+                    "duration": 0.12000084,
+                    "text": "ist.",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 25.59,
+                    "end": 25.74,
+                    "duration": 0.14999962,
+                    "text": "Haben",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.74,
+                    "end": 25.83,
+                    "duration": 0.09000015,
+                    "text": "Sie",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 25.83,
+                    "end": 25.95,
+                    "duration": 0.12000084,
+                    "text": "da",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 25.95,
+                    "end": 26.19,
+                    "duration": 0.23999977,
+                    "text": "meine",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 26.19,
+                    "end": 26.7,
+                    "duration": 0.5100002,
+                    "text": "Kundennummer",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 26.7,
+                    "end": 26.82,
+                    "duration": 0.11999893,
+                    "text": "für",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 26.82,
+                    "end": 27.21,
+                    "duration": 0.3899994,
+                    "text": "mich?",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 29.43,
+                    "end": 30,
+                    "duration": 0.5699997,
+                    "text": "Okay,",
+                    "conf": 0.47,
+                    "pristine": true
+                },
+                {
+                    "start": 30.36,
+                    "end": 30.81,
+                    "duration": 0.44999886,
+                    "text": "dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 31.02,
+                    "end": 31.35,
+                    "duration": 0.32999992,
+                    "text": "machen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 31.35,
+                    "end": 31.44,
+                    "duration": 0.09000015,
+                    "text": "wir",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 31.44,
+                    "end": 31.62,
+                    "duration": 0.1800003,
+                    "text": "das",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 31.62,
+                    "end": 32.01,
+                    "duration": 0.38999748,
+                    "text": "anders.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 32.28,
+                    "end": 32.49,
+                    "duration": 0.2100029,
+                    "text": "Die",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 32.49,
+                    "end": 33.21,
+                    "duration": 0.7199974,
+                    "text": "Postleitzahl",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 33.21,
+                    "end": 33.36,
+                    "duration": 0.15000153,
+                    "text": "zu",
+                    "conf": 0.56,
+                    "pristine": true
+                },
+                {
+                    "start": 33.36,
+                    "end": 33.57,
+                    "duration": 0.20999908,
+                    "text": "Hand.",
+                    "conf": 0.34,
+                    "pristine": true
+                },
+                {
+                    "start": 38.19,
+                    "end": 38.58,
+                    "duration": 0.3900032,
+                    "text": "Und",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 38.58,
+                    "end": 38.73,
+                    "duration": 0.14999771,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 38.73,
+                    "end": 39.18,
+                    "duration": 0.45000076,
+                    "text": "Strafe",
+                    "conf": 0.79,
+                    "pristine": true
+                },
+                {
+                    "start": 39.18,
+                    "end": 39.39,
+                    "duration": 0.20999908,
+                    "text": "bitte",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.39,
+                    "end": 39.54,
+                    "duration": 0.15000153,
+                    "text": "noch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 39.54,
+                    "end": 39.93,
+                    "duration": 0.3899994,
+                    "text": "dazu.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 44.66,
+                    "end": 44.84,
+                    "duration": 0.1800003,
+                    "text": "Läuft",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 44.84,
+                    "end": 44.98,
+                    "duration": 0.13999939,
+                    "text": "das",
+                    "conf": 0.72,
+                    "pristine": true
+                },
+                {
+                    "start": 45.14,
+                    "end": 45.23,
+                    "duration": 0.09000015,
+                    "text": "im",
+                    "conf": 0.49,
+                    "pristine": true
+                },
+                {
+                    "start": 45.23,
+                    "end": 45.65,
+                    "duration": 0.42000198,
+                    "text": "Namen?",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 48.15,
+                    "end": 49.04,
+                    "duration": 0.8899994,
+                    "text": "Sturm",
+                    "conf": 0.82,
+                    "pristine": true
+                },
+                {
+                    "start": 49.89,
+                    "end": 49.98,
+                    "duration": 0.09000015,
+                    "text": "Und",
+                    "conf": 0.49,
+                    "pristine": true
+                },
+                {
+                    "start": 50.25,
+                    "end": 50.4,
+                    "duration": 0.15000153,
+                    "text": "dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 50.4,
+                    "end": 50.61,
+                    "duration": 0.20999908,
+                    "text": "hab",
+                    "conf": 0.65,
+                    "pristine": true
+                },
+                {
+                    "start": 50.61,
+                    "end": 50.73,
+                    "duration": 0.11999893,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 50.73,
+                    "end": 50.85,
+                    "duration": 0.11999893,
+                    "text": "sie",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 50.85,
+                    "end": 51.03,
+                    "duration": 0.1800003,
+                    "text": "doch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 51.03,
+                    "end": 51.3,
+                    "duration": 0.27000046,
+                    "text": "auch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 51.3,
+                    "end": 51.6,
+                    "duration": 0.29999924,
+                    "text": "schon",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 51.6,
+                    "end": 52.56,
+                    "duration": 0.9600029,
+                    "text": "gefunden.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 53.58,
+                    "end": 54.42,
+                    "duration": 0.83999634,
+                    "text": "So.",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 64.8,
+                    "end": 64.96,
+                    "duration": 0.15999603,
+                    "text": "Ja,",
+                    "conf": 0.61,
+                    "pristine": true
+                },
+                {
+                    "start": 65.69,
+                    "end": 65.81,
+                    "duration": 0.11999512,
+                    "text": "es",
+                    "conf": 0.62,
+                    "pristine": true
+                },
+                {
+                    "start": 65.81,
+                    "end": 65.96,
+                    "duration": 0.15000153,
+                    "text": "ist",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 65.96,
+                    "end": 66.44,
+                    "duration": 0.48000336,
+                    "text": "natürlich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 66.44,
+                    "end": 66.86,
+                    "duration": 0.41999817,
+                    "text": "ärgerlich.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 67.06,
+                    "end": 67.19,
+                    "duration": 0.13000488,
+                    "text": "Ich",
+                    "conf": 0.88,
+                    "pristine": true
+                },
+                {
+                    "start": 67.43,
+                    "end": 67.61,
+                    "duration": 0.1800003,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 67.7,
+                    "end": 67.88,
+                    "duration": 0.1800003,
+                    "text": "will",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 67.88,
+                    "end": 68,
+                    "duration": 0.12000275,
+                    "text": "mal",
+                    "conf": 0.94,
+                    "pristine": true
+                },
+                {
+                    "start": 68.03,
+                    "end": 68.23,
+                    "duration": 0.20000458,
+                    "text": "eben",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 68.24,
+                    "end": 68.93,
+                    "duration": 0.69000244,
+                    "text": "reinschauen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 68.93,
+                    "end": 69.05,
+                    "duration": 0.12000275,
+                    "text": "in",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 69.05,
+                    "end": 69.17,
+                    "duration": 0.11999512,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 69.17,
+                    "end": 70.4,
+                    "duration": 1.2300034,
+                    "text": "Sendungsverfolgung",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 70.43,
+                    "end": 70.7,
+                    "duration": 0.26999664,
+                    "text": "dauert",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 70.7,
+                    "end": 70.87,
+                    "duration": 0.1700058,
+                    "text": "nun",
+                    "conf": 0.58,
+                    "pristine": true
+                },
+                {
+                    "start": 70.87,
+                    "end": 70.91,
+                    "duration": 0.040000916,
+                    "text": "ein",
+                    "conf": 0.77,
+                    "pristine": true
+                },
+                {
+                    "start": 70.91,
+                    "end": 71.42,
+                    "duration": 0.5099945,
+                    "text": "klein",
+                    "conf": 0.87,
+                    "pristine": true
+                },
+                {
+                    "start": 71.42,
+                    "end": 72.35,
+                    "duration": 0.9300003,
+                    "text": "Augenblick.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 77.31,
+                    "end": 77.36,
+                    "duration": 0.05000305,
+                    "text": "In",
+                    "conf": 0.69,
+                    "pristine": true
+                },
+                {
+                    "start": 77.41,
+                    "end": 77.68,
+                    "duration": 0.26999664,
+                    "text": "diesem",
+                    "conf": 0.65,
+                    "pristine": true
+                },
+                {
+                    "start": 78.46,
+                    "end": 78.82,
+                    "duration": 0.3600006,
+                    "text": "kleinen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 78.82,
+                    "end": 79.15,
+                    "duration": 0.33000183,
+                    "text": "Augenblick,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 79.15,
+                    "end": 79.4,
+                    "duration": 0.25,
+                    "text": "bitte.",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 87.93,
+                    "end": 88.4,
+                    "duration": 0.47000122,
+                    "text": "Nu,",
+                    "conf": 0.53,
+                    "pristine": true
+                },
+                {
+                    "start": 89.04,
+                    "end": 89.4,
+                    "duration": 0.3600006,
+                    "text": "also",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 89.52,
+                    "end": 89.73,
+                    "duration": 0.21000671,
+                    "text": "laut",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 89.73,
+                    "end": 90.51,
+                    "duration": 0.7799988,
+                    "text": "Sendungsverfolgung",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 90.51,
+                    "end": 90.78,
+                    "duration": 0.26999664,
+                    "text": "sehe",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 90.78,
+                    "end": 90.96,
+                    "duration": 0.1800003,
+                    "text": "ich,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 90.96,
+                    "end": 91.29,
+                    "duration": 0.33000183,
+                    "text": "konnte",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 91.29,
+                    "end": 91.44,
+                    "duration": 0.15000153,
+                    "text": "das",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 91.44,
+                    "end": 91.83,
+                    "duration": 0.3899994,
+                    "text": "Paket",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 91.83,
+                    "end": 92.16,
+                    "duration": 0.33000183,
+                    "text": "heute",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 92.16,
+                    "end": 92.46,
+                    "duration": 0.29999542,
+                    "text": "nicht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 92.55,
+                    "end": 93.42,
+                    "duration": 0.8699951,
+                    "text": "zugestellt",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 93.42,
+                    "end": 94.05,
+                    "duration": 0.6300049,
+                    "text": "werden.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 95.58,
+                    "end": 95.79,
+                    "duration": 0.20999908,
+                    "text": "Ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 95.79,
+                    "end": 96.09,
+                    "duration": 0.29999542,
+                    "text": "kann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 96.1,
+                    "end": 96.45,
+                    "duration": 0.34999847,
+                    "text": "jetzt",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 96.45,
+                    "end": 96.93,
+                    "duration": 0.48000336,
+                    "text": "gerne",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 97.02,
+                    "end": 97.32,
+                    "duration": 0.30000305,
+                    "text": "nochmal",
+                    "conf": 0.81,
+                    "pristine": true
+                },
+                {
+                    "start": 97.32,
+                    "end": 98.16,
+                    "duration": 0.84000397,
+                    "text": "veranlassen,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 98.82,
+                    "end": 99,
+                    "duration": 0.1800003,
+                    "text": "das",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 99,
+                    "end": 99.3,
+                    "duration": 0.30000305,
+                    "text": "Paket",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 99.3,
+                    "end": 99.81,
+                    "duration": 0.5099945,
+                    "text": "sozusagen",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 99.81,
+                    "end": 100.32,
+                    "duration": 0.51000214,
+                    "text": "anschubsen,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 100.32,
+                    "end": 100.5,
+                    "duration": 0.1800003,
+                    "text": "dass",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 100.5,
+                    "end": 100.59,
+                    "duration": 0.08999634,
+                    "text": "wir",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 100.59,
+                    "end": 100.77,
+                    "duration": 0.1800003,
+                    "text": "das",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 100.77,
+                    "end": 101.4,
+                    "duration": 0.6300049,
+                    "text": "nochmals",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 101.58,
+                    "end": 102,
+                    "duration": 0.41999817,
+                    "text": "zustellen",
+                    "conf": 0.93,
+                    "pristine": true
+                },
+                {
+                    "start": 102,
+                    "end": 102.57,
+                    "duration": 0.5699997,
+                    "text": "Auftrag",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.57,
+                    "end": 102.72,
+                    "duration": 0.15000153,
+                    "text": "an",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.72,
+                    "end": 102.81,
+                    "duration": 0.08999634,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.81,
+                    "end": 103.08,
+                    "duration": 0.27000427,
+                    "text": "Post",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 103.08,
+                    "end": 103.83,
+                    "duration": 0.75,
+                    "text": "weitergeben.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.22,
+                    "end": 106.49,
+                    "duration": 0.26999664,
+                    "text": "Heute",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.49,
+                    "end": 106.67,
+                    "duration": 0.1800003,
+                    "text": "kann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.67,
+                    "end": 106.76,
+                    "duration": 0.09000397,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.76,
+                    "end": 107,
+                    "duration": 0.23999786,
+                    "text": "leider",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 107,
+                    "end": 107.24,
+                    "duration": 0.23999786,
+                    "text": "nicht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 107.24,
+                    "end": 107.36,
+                    "duration": 0.12000275,
+                    "text": "mehr",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 107.36,
+                    "end": 107.84,
+                    "duration": 0.47999573,
+                    "text": "versprechen.",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 108.2,
+                    "end": 108.92,
+                    "duration": 0.7200012,
+                    "text": "Voraussichtlich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 108.92,
+                    "end": 109.22,
+                    "duration": 0.30000305,
+                    "text": "erst",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 109.22,
+                    "end": 109.82,
+                    "duration": 0.5999985,
+                    "text": "morgen.",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 122.42,
+                    "end": 122.5,
+                    "duration": 0.08000183,
+                    "text": "Ja,",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 122.54,
+                    "end": 122.99,
+                    "duration": 0.44999695,
+                    "text": "natürlich.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 126.35,
+                    "end": 126.53,
+                    "duration": 0.1800003,
+                    "text": "Das",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 126.53,
+                    "end": 126.89,
+                    "duration": 0.3600006,
+                    "text": "Paket",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 126.89,
+                    "end": 127.1,
+                    "duration": 0.20999908,
+                    "text": "kann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.1,
+                    "end": 127.19,
+                    "duration": 0.09000397,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.19,
+                    "end": 127.37,
+                    "duration": 0.1800003,
+                    "text": "jetzt",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.37,
+                    "end": 127.64,
+                    "duration": 0.26999664,
+                    "text": "leider",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.64,
+                    "end": 127.88,
+                    "duration": 0.23999786,
+                    "text": "nicht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 127.88,
+                    "end": 128.36,
+                    "duration": 0.48000336,
+                    "text": "mehr",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 128.51,
+                    "end": 128.78,
+                    "duration": 0.27000427,
+                    "text": "noch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 128.78,
+                    "end": 129.44,
+                    "duration": 0.66000366,
+                    "text": "fristgerecht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 129.44,
+                    "end": 130.07,
+                    "duration": 0.6300049,
+                    "text": "zustellen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 130.07,
+                    "end": 130.37,
+                    "duration": 0.2999878,
+                    "text": "lassen.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 130.45,
+                    "end": 130.55,
+                    "duration": 0.1000061,
+                    "text": "So",
+                    "conf": 0.57,
+                    "pristine": true
+                },
+                {
+                    "start": 130.55,
+                    "end": 131.12,
+                    "duration": 0.56999207,
+                    "text": "heute",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 131.21,
+                    "end": 131.6,
+                    "duration": 0.3899994,
+                    "text": "also",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 132.38,
+                    "end": 132.67,
+                    "duration": 0.2899933,
+                    "text": "eben",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 132.68,
+                    "end": 132.95,
+                    "duration": 0.27000427,
+                    "text": "erst",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 132.95,
+                    "end": 133.04,
+                    "duration": 0.08999634,
+                    "text": "in",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 133.04,
+                    "end": 133.13,
+                    "duration": 0.0900116,
+                    "text": "den",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 133.13,
+                    "end": 133.43,
+                    "duration": 0.2999878,
+                    "text": "nächsten",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 133.43,
+                    "end": 133.82,
+                    "duration": 0.39001465,
+                    "text": "Tagen.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 134.18,
+                    "end": 134.44,
+                    "duration": 0.26000977,
+                    "text": "Oh.",
+                    "conf": 0.66,
+                    "pristine": true
+                },
+                {
+                    "start": 134.57,
+                    "end": 134.99,
+                    "duration": 0.41999817,
+                    "text": "Oder",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 135.17,
+                    "end": 135.56,
+                    "duration": 0.3899994,
+                    "text": "vielleicht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 135.56,
+                    "end": 135.65,
+                    "duration": 0.08999634,
+                    "text": "an",
+                    "conf": 0.61,
+                    "pristine": true
+                },
+                {
+                    "start": 135.68,
+                    "end": 135.83,
+                    "duration": 0.15000916,
+                    "text": "eine",
+                    "conf": 0.94,
+                    "pristine": true
+                },
+                {
+                    "start": 135.83,
+                    "end": 136.31,
+                    "duration": 0.47999573,
+                    "text": "abweichende",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 136.31,
+                    "end": 136.7,
+                    "duration": 0.3899994,
+                    "text": "Adresse?",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 140.18,
+                    "end": 140.51,
+                    "duration": 0.33000183,
+                    "text": "Ja.",
+                    "conf": 0.27,
+                    "pristine": true
+                },
+                {
+                    "start": 143.68,
+                    "end": 143.77,
+                    "duration": 0.0900116,
+                    "text": "Also,",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 143.8,
+                    "end": 143.89,
+                    "duration": 0.08999634,
+                    "text": "wenn",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 143.89,
+                    "end": 143.95,
+                    "duration": 0.05999756,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 143.95,
+                    "end": 144.07,
+                    "duration": 0.120010376,
+                    "text": "jetzt",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 144.07,
+                    "end": 144.16,
+                    "duration": 0.08999634,
+                    "text": "eine",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 144.16,
+                    "end": 145.03,
+                    "duration": 0.8699951,
+                    "text": "Umleitung",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 145.63,
+                    "end": 146.1,
+                    "duration": 0.47000122,
+                    "text": "veranlasse,",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 146.29,
+                    "end": 146.39,
+                    "duration": 0.1000061,
+                    "text": "zum",
+                    "conf": 0.49,
+                    "pristine": true
+                },
+                {
+                    "start": 146.44,
+                    "end": 147.1,
+                    "duration": 0.66000366,
+                    "text": "Beispiel",
+                    "conf": 0.49,
+                    "pristine": true
+                },
+                {
+                    "start": 147.13,
+                    "end": 147.37,
+                    "duration": 0.23999023,
+                    "text": "zur",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 147.37,
+                    "end": 147.91,
+                    "duration": 0.54000854,
+                    "text": "Adresse,",
+                    "conf": 0.87,
+                    "pristine": true
+                },
+                {
+                    "start": 148.09,
+                    "end": 148.24,
+                    "duration": 0.15000916,
+                    "text": "wo",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 148.24,
+                    "end": 148.33,
+                    "duration": 0.08999634,
+                    "text": "sie",
+                    "conf": 0.95,
+                    "pristine": true
+                },
+                {
+                    "start": 148.33,
+                    "end": 148.57,
+                    "duration": 0.2400055,
+                    "text": "jetzt",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 148.78,
+                    "end": 148.96,
+                    "duration": 0.18000793,
+                    "text": "auf",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 148.96,
+                    "end": 149.38,
+                    "duration": 0.41999817,
+                    "text": "Montage",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 149.38,
+                    "end": 149.62,
+                    "duration": 0.23999023,
+                    "text": "sein",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 149.62,
+                    "end": 149.95,
+                    "duration": 0.33000183,
+                    "text": "werden,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 150.88,
+                    "end": 151.09,
+                    "duration": 0.20999146,
+                    "text": "dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 151.09,
+                    "end": 151.3,
+                    "duration": 0.21000671,
+                    "text": "auch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 151.3,
+                    "end": 151.51,
+                    "duration": 0.20999146,
+                    "text": "wieder",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 151.51,
+                    "end": 151.6,
+                    "duration": 0.0900116,
+                    "text": "in",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 151.6,
+                    "end": 151.69,
+                    "duration": 0.08999634,
+                    "text": "den",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 151.69,
+                    "end": 151.96,
+                    "duration": 0.27000427,
+                    "text": "nächsten",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 151.96,
+                    "end": 152.14,
+                    "duration": 0.17999268,
+                    "text": "2",
+                    "conf": 0.86,
+                    "pristine": true
+                },
+                {
+                    "start": 152.14,
+                    "end": 152.29,
+                    "duration": 0.1499939,
+                    "text": "3",
+                    "conf": 0.86,
+                    "pristine": true
+                },
+                {
+                    "start": 152.29,
+                    "end": 152.83,
+                    "duration": 0.54000854,
+                    "text": "Werktagen.",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 158.12,
+                    "end": 158.3,
+                    "duration": 0.18000793,
+                    "text": "Das",
+                    "conf": 0.84,
+                    "pristine": true
+                },
+                {
+                    "start": 158.3,
+                    "end": 158.63,
+                    "duration": 0.33000183,
+                    "text": "andere.",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 162.37,
+                    "end": 162.85,
+                    "duration": 0.480011,
+                    "text": "Genau.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 164.46,
+                    "end": 164.58,
+                    "duration": 0.11999512,
+                    "text": "Was",
+                    "conf": 0.89,
+                    "pristine": true
+                },
+                {
+                    "start": 164.58,
+                    "end": 164.94,
+                    "duration": 0.3600006,
+                    "text": "anderes",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 164.94,
+                    "end": 165.15,
+                    "duration": 0.20999146,
+                    "text": "kann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 165.15,
+                    "end": 165.27,
+                    "duration": 0.120010376,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 165.27,
+                    "end": 165.36,
+                    "duration": 0.08999634,
+                    "text": "da",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 165.36,
+                    "end": 165.6,
+                    "duration": 0.2400055,
+                    "text": "leider",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 165.6,
+                    "end": 165.75,
+                    "duration": 0.1499939,
+                    "text": "auch",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 165.75,
+                    "end": 165.96,
+                    "duration": 0.21000671,
+                    "text": "gerade",
+                    "conf": 0.79,
+                    "pristine": true
+                },
+                {
+                    "start": 165.96,
+                    "end": 166.14,
+                    "duration": 0.17999268,
+                    "text": "nicht",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 166.14,
+                    "end": 166.47,
+                    "duration": 0.33000183,
+                    "text": "machen.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 170.18,
+                    "end": 170.45,
+                    "duration": 0.27000427,
+                    "text": "Ja,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 171.14,
+                    "end": 171.5,
+                    "duration": 0.3600006,
+                    "text": "gerne.",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 171.62,
+                    "end": 171.74,
+                    "duration": 0.120010376,
+                    "text": "Dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 171.74,
+                    "end": 171.98,
+                    "duration": 0.23999023,
+                    "text": "machen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 171.98,
+                    "end": 172.07,
+                    "duration": 0.0900116,
+                    "text": "wir",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 172.07,
+                    "end": 172.22,
+                    "duration": 0.1499939,
+                    "text": "das",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 172.22,
+                    "end": 172.52,
+                    "duration": 0.30000305,
+                    "text": "so",
+                    "conf": 0.64,
+                    "pristine": true
+                },
+                {
+                    "start": 173.53,
+                    "end": 173.64,
+                    "duration": 0.11000061,
+                    "text": "ist",
+                    "conf": 0.51,
+                    "pristine": true
+                },
+                {
+                    "start": 174.23,
+                    "end": 174.37,
+                    "duration": 0.13999939,
+                    "text": "das",
+                    "conf": 0.55,
+                    "pristine": true
+                },
+                {
+                    "start": 174.38,
+                    "end": 174.47,
+                    "duration": 0.08999634,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 174.47,
+                    "end": 175.01,
+                    "duration": 0.5399933,
+                    "text": "abweichende",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 175.01,
+                    "end": 175.4,
+                    "duration": 0.3899994,
+                    "text": "Adresse,",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 175.4,
+                    "end": 175.85,
+                    "duration": 0.4500122,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 176.39,
+                    "end": 176.54,
+                    "duration": 0.1499939,
+                    "text": "hier",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 176.54,
+                    "end": 176.66,
+                    "duration": 0.120010376,
+                    "text": "schon",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 176.66,
+                    "end": 177.11,
+                    "duration": 0.44999695,
+                    "text": "hinterlegt",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 177.11,
+                    "end": 177.59,
+                    "duration": 0.47999573,
+                    "text": "ist.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 179.57,
+                    "end": 180.04,
+                    "duration": 0.46998596,
+                    "text": "Prima.",
+                    "conf": 0.88,
+                    "pristine": true
+                },
+                {
+                    "start": 180.62,
+                    "end": 180.78,
+                    "duration": 0.16000366,
+                    "text": "Ja,",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 180.89,
+                    "end": 181.04,
+                    "duration": 0.1499939,
+                    "text": "dann",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 181.04,
+                    "end": 181.22,
+                    "duration": 0.18000793,
+                    "text": "mache",
+                    "conf": 0.76,
+                    "pristine": true
+                },
+                {
+                    "start": 181.22,
+                    "end": 181.31,
+                    "duration": 0.08999634,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 181.31,
+                    "end": 181.4,
+                    "duration": 0.08999634,
+                    "text": "für",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 181.4,
+                    "end": 181.49,
+                    "duration": 0.0900116,
+                    "text": "Sie",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 181.49,
+                    "end": 181.61,
+                    "duration": 0.11999512,
+                    "text": "den",
+                    "conf": 0.46,
+                    "pristine": true
+                },
+                {
+                    "start": 181.61,
+                    "end": 182,
+                    "duration": 0.3899994,
+                    "text": "Umleitung",
+                    "conf": 0.95,
+                    "pristine": true
+                },
+                {
+                    "start": 182,
+                    "end": 182.39,
+                    "duration": 0.3899994,
+                    "text": "Bauauftrag",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 182.39,
+                    "end": 182.72,
+                    "duration": 0.33000183,
+                    "text": "fertig.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 182.75,
+                    "end": 182.84,
+                    "duration": 0.08999634,
+                    "text": "Und",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 182.84,
+                    "end": 182.96,
+                    "duration": 0.120010376,
+                    "text": "dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 182.96,
+                    "end": 183.17,
+                    "duration": 0.20999146,
+                    "text": "werden",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 183.17,
+                    "end": 183.26,
+                    "duration": 0.08999634,
+                    "text": "wir",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 183.26,
+                    "end": 183.38,
+                    "duration": 0.120010376,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 183.38,
+                    "end": 184.01,
+                    "duration": 0.6299896,
+                    "text": "Zustellung",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.01,
+                    "end": 184.13,
+                    "duration": 0.120010376,
+                    "text": "in",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.13,
+                    "end": 184.22,
+                    "duration": 0.08999634,
+                    "text": "den",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.22,
+                    "end": 184.46,
+                    "duration": 0.2400055,
+                    "text": "nächsten",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.46,
+                    "end": 184.82,
+                    "duration": 0.3600006,
+                    "text": "Tagen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.82,
+                    "end": 184.97,
+                    "duration": 0.1499939,
+                    "text": "an",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 184.97,
+                    "end": 185.06,
+                    "duration": 0.08999634,
+                    "text": "die",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 185.06,
+                    "end": 185.21,
+                    "duration": 0.15000916,
+                    "text": "von",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 185.21,
+                    "end": 185.36,
+                    "duration": 0.1499939,
+                    "text": "Ihnen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 185.36,
+                    "end": 185.98,
+                    "duration": 0.6199951,
+                    "text": "gewünschte",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 185.99,
+                    "end": 186.47,
+                    "duration": 0.47999573,
+                    "text": "Adresse",
+                    "conf": 0.93,
+                    "pristine": true
+                },
+                {
+                    "start": 187.28,
+                    "end": 187.91,
+                    "duration": 0.6300049,
+                    "text": "gewährleisten.",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 192.97,
+                    "end": 193.36,
+                    "duration": 0.3899994,
+                    "text": "primÃr",
+                    "conf": 0.57,
+                    "pristine": true
+                },
+                {
+                    "start": 193.36,
+                    "end": 193.63,
+                    "duration": 0.27000427,
+                    "text": "Storm",
+                    "conf": 0.29,
+                    "pristine": true
+                },
+                {
+                    "start": 193.9,
+                    "end": 194.11,
+                    "duration": 0.21000671,
+                    "text": "kann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.11,
+                    "end": 194.23,
+                    "duration": 0.11999512,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.23,
+                    "end": 194.32,
+                    "duration": 0.0900116,
+                    "text": "im",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.32,
+                    "end": 194.65,
+                    "duration": 0.32998657,
+                    "text": "Augenblick",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.85,
+                    "end": 194.95,
+                    "duration": 0.099990845,
+                    "text": "noch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 194.98,
+                    "end": 195.19,
+                    "duration": 0.21000671,
+                    "text": "etwas",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 195.19,
+                    "end": 195.28,
+                    "duration": 0.08999634,
+                    "text": "für",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 195.28,
+                    "end": 195.37,
+                    "duration": 0.08999634,
+                    "text": "Sie",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 195.37,
+                    "end": 195.64,
+                    "duration": 0.27000427,
+                    "text": "tun?",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.15,
+                    "end": 198.3,
+                    "duration": 0.15000916,
+                    "text": "Dann",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.3,
+                    "end": 198.6,
+                    "duration": 0.30000305,
+                    "text": "bedanke",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.6,
+                    "end": 198.66,
+                    "duration": 0.05999756,
+                    "text": "ich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.66,
+                    "end": 198.81,
+                    "duration": 0.1499939,
+                    "text": "mich",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.81,
+                    "end": 198.9,
+                    "duration": 0.08999634,
+                    "text": "für",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 198.9,
+                    "end": 199.02,
+                    "duration": 0.120010376,
+                    "text": "den",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.02,
+                    "end": 199.38,
+                    "duration": 0.3600006,
+                    "text": "Anruf",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.38,
+                    "end": 199.53,
+                    "duration": 0.1499939,
+                    "text": "und",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.53,
+                    "end": 199.77,
+                    "duration": 0.2400055,
+                    "text": "wünsche",
+                    "conf": 0.91,
+                    "pristine": true
+                },
+                {
+                    "start": 199.8,
+                    "end": 199.95,
+                    "duration": 0.1499939,
+                    "text": "noch",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 199.95,
+                    "end": 200.07,
+                    "duration": 0.120010376,
+                    "text": "einen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 200.07,
+                    "end": 200.31,
+                    "duration": 0.23999023,
+                    "text": "schönen",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 200.31,
+                    "end": 200.64,
+                    "duration": 0.33000183,
+                    "text": "Tag.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 202.61,
+                    "end": 202.76,
+                    "duration": 0.1499939,
+                    "text": "Danke",
+                    "conf": 0.69,
+                    "pristine": true
+                },
+                {
+                    "start": 202.85,
+                    "end": 203.06,
+                    "duration": 0.20999146,
+                    "text": "schön!",
+                    "conf": 0.69,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

@@ -1,0 +1,1020 @@
+﻿{
+    "id": "b9e8f1d1-1f10-4872-8167-25c856995f53",
+    "recordId": "timo_1602001371353_1412196121",
+    "filename": "nl_5-0.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 1.95,
+                    "end": 2.06,
+                    "duration": 0.109999895,
+                    "text": "Het",
+                    "conf": 0.33,
+                    "pristine": true
+                },
+                {
+                    "start": 2.74,
+                    "end": 3.3,
+                    "duration": 0.55999994,
+                    "text": "rosacea",
+                    "conf": 0.3,
+                    "pristine": true
+                },
+                {
+                    "start": 3.3,
+                    "end": 3.45,
+                    "duration": 0.1500001,
+                    "text": "met",
+                    "conf": 0.91,
+                    "pristine": true
+                },
+                {
+                    "start": 3.45,
+                    "end": 3.63,
+                    "duration": 0.18000007,
+                    "text": "andere",
+                    "conf": 0.56,
+                    "pristine": true
+                },
+                {
+                    "start": 3.63,
+                    "end": 3.89,
+                    "duration": 0.26,
+                    "text": "kamers",
+                    "conf": 0.19,
+                    "pristine": true
+                },
+                {
+                    "start": 3.89,
+                    "end": 4.02,
+                    "duration": 0.12999988,
+                    "text": "kan",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 4.02,
+                    "end": 4.08,
+                    "duration": 0.059999943,
+                    "text": "ik",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.08,
+                    "end": 4.23,
+                    "duration": 0.1500001,
+                    "text": "voor",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 4.23,
+                    "end": 4.29,
+                    "duration": 0.059999943,
+                    "text": "je",
+                    "conf": 0.93,
+                    "pristine": true
+                },
+                {
+                    "start": 4.29,
+                    "end": 4.51,
+                    "duration": 0.22000027,
+                    "text": "doen",
+                    "conf": 0.52,
+                    "pristine": true
+                },
+                {
+                    "start": 5.12,
+                    "end": 5.25,
+                    "duration": 0.13000011,
+                    "text": "aan",
+                    "conf": 0.37,
+                    "pristine": true
+                },
+                {
+                    "start": 6.24,
+                    "end": 6.32,
+                    "duration": 0.0800004,
+                    "text": "het",
+                    "conf": 0.63,
+                    "pristine": true
+                },
+                {
+                    "start": 6.43,
+                    "end": 7.08,
+                    "duration": 0.6500001,
+                    "text": "verhaal.",
+                    "conf": 0.82,
+                    "pristine": true
+                },
+                {
+                    "start": 14.78,
+                    "end": 15.29,
+                    "duration": 0.5100002,
+                    "text": "Bakri.",
+                    "conf": 0.26,
+                    "pristine": true
+                },
+                {
+                    "start": 20.73,
+                    "end": 20.88,
+                    "duration": 0.14999962,
+                    "text": "Ze",
+                    "conf": 0.71,
+                    "pristine": true
+                },
+                {
+                    "start": 21.16,
+                    "end": 21.65,
+                    "duration": 0.48999977,
+                    "text": "kaartte",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 22.69,
+                    "end": 22.79,
+                    "duration": 0.10000038,
+                    "text": "het",
+                    "conf": 0.79,
+                    "pristine": true
+                },
+                {
+                    "start": 22.96,
+                    "end": 23.35,
+                    "duration": 0.3900013,
+                    "text": "even",
+                    "conf": 0.67,
+                    "pristine": true
+                },
+                {
+                    "start": 23.36,
+                    "end": 23.93,
+                    "duration": 0.5699997,
+                    "text": "voorkomen.",
+                    "conf": 0.3,
+                    "pristine": true
+                },
+                {
+                    "start": 24.1,
+                    "end": 24.58,
+                    "duration": 0.47999954,
+                    "text": "Amsterdam.",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 30.81,
+                    "end": 30.96,
+                    "duration": 0.14999962,
+                    "text": "Dat",
+                    "conf": 0.31,
+                    "pristine": true
+                },
+                {
+                    "start": 31.29,
+                    "end": 31.65,
+                    "duration": 0.3599987,
+                    "text": "Balen",
+                    "conf": 0.37,
+                    "pristine": true
+                },
+                {
+                    "start": 31.65,
+                    "end": 31.92,
+                    "duration": 0.27000046,
+                    "text": "zal",
+                    "conf": 0.48,
+                    "pristine": true
+                },
+                {
+                    "start": 32.01,
+                    "end": 32.82,
+                    "duration": 0.8100014,
+                    "text": "doorgeschoven",
+                    "conf": 0.62,
+                    "pristine": true
+                },
+                {
+                    "start": 32.82,
+                    "end": 33.14,
+                    "duration": 0.3199997,
+                    "text": "naar",
+                    "conf": 0.59,
+                    "pristine": true
+                },
+                {
+                    "start": 33.18,
+                    "end": 33.84,
+                    "duration": 0.65999985,
+                    "text": "jeugdreeks",
+                    "conf": 0.6,
+                    "pristine": true
+                },
+                {
+                    "start": 35.82,
+                    "end": 36.29,
+                    "duration": 0.47000122,
+                    "text": "komen",
+                    "conf": 0.55,
+                    "pristine": true
+                },
+                {
+                    "start": 36.45,
+                    "end": 36.56,
+                    "duration": 0.11000061,
+                    "text": "die",
+                    "conf": 0.49,
+                    "pristine": true
+                },
+                {
+                    "start": 36.57,
+                    "end": 37.11,
+                    "duration": 0.5400009,
+                    "text": "Fitton",
+                    "conf": 0.3,
+                    "pristine": true
+                },
+                {
+                    "start": 37.72,
+                    "end": 38.33,
+                    "duration": 0.6100006,
+                    "text": "proberen",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 38.4,
+                    "end": 38.46,
+                    "duration": 0.05999756,
+                    "text": "een",
+                    "conf": 0.45,
+                    "pristine": true
+                },
+                {
+                    "start": 38.46,
+                    "end": 38.94,
+                    "duration": 0.47999954,
+                    "text": "souvenir",
+                    "conf": 0.36,
+                    "pristine": true
+                },
+                {
+                    "start": 38.94,
+                    "end": 39.09,
+                    "duration": 0.15000153,
+                    "text": "heleboel",
+                    "conf": 0.48,
+                    "pristine": true
+                },
+                {
+                    "start": 39.09,
+                    "end": 39.81,
+                    "duration": 0.7200012,
+                    "text": "halfway",
+                    "conf": 0.81,
+                    "pristine": true
+                },
+                {
+                    "start": 41.51,
+                    "end": 41.96,
+                    "duration": 0.45000076,
+                    "text": "113de",
+                    "conf": 0.21,
+                    "pristine": true
+                },
+                {
+                    "start": 42.3,
+                    "end": 42.35,
+                    "duration": 0.049999237,
+                    "text": "er",
+                    "conf": 0.58,
+                    "pristine": true
+                },
+                {
+                    "start": 42.36,
+                    "end": 42.51,
+                    "duration": 0.14999771,
+                    "text": "zijn",
+                    "conf": 0.87,
+                    "pristine": true
+                },
+                {
+                    "start": 42.51,
+                    "end": 42.69,
+                    "duration": 0.1800003,
+                    "text": "nog",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 42.69,
+                    "end": 42.9,
+                    "duration": 0.2100029,
+                    "text": "geen",
+                    "conf": 0.57,
+                    "pristine": true
+                },
+                {
+                    "start": 42.9,
+                    "end": 43.32,
+                    "duration": 0.41999817,
+                    "text": "plekjes",
+                    "conf": 0.76,
+                    "pristine": true
+                },
+                {
+                    "start": 43.32,
+                    "end": 43.44,
+                    "duration": 0.11999893,
+                    "text": "of",
+                    "conf": 0.75,
+                    "pristine": true
+                },
+                {
+                    "start": 43.44,
+                    "end": 43.74,
+                    "duration": 0.30000305,
+                    "text": "groepjes,",
+                    "conf": 0.76,
+                    "pristine": true
+                },
+                {
+                    "start": 43.74,
+                    "end": 43.89,
+                    "duration": 0.14999771,
+                    "text": "maar",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 44.16,
+                    "end": 44.49,
+                    "duration": 0.33000183,
+                    "text": "deze",
+                    "conf": 0.46,
+                    "pristine": true
+                },
+                {
+                    "start": 44.5,
+                    "end": 44.64,
+                    "duration": 0.13999939,
+                    "text": "en",
+                    "conf": 0.67,
+                    "pristine": true
+                },
+                {
+                    "start": 44.64,
+                    "end": 44.85,
+                    "duration": 0.20999908,
+                    "text": "andere",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 44.85,
+                    "end": 45.24,
+                    "duration": 0.3900032,
+                    "text": "chiffon",
+                    "conf": 0.66,
+                    "pristine": true
+                },
+                {
+                    "start": 45.24,
+                    "end": 45.78,
+                    "duration": 0.5399971,
+                    "text": "krijgen",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 46.56,
+                    "end": 46.86,
+                    "duration": 0.29999924,
+                    "text": "suffys,",
+                    "conf": 0.53,
+                    "pristine": true
+                },
+                {
+                    "start": 46.95,
+                    "end": 47.22,
+                    "duration": 0.27000046,
+                    "text": "onthult",
+                    "conf": 0.38,
+                    "pristine": true
+                },
+                {
+                    "start": 47.27,
+                    "end": 47.31,
+                    "duration": 0.040000916,
+                    "text": "de",
+                    "conf": 0.35,
+                    "pristine": true
+                },
+                {
+                    "start": 47.34,
+                    "end": 47.71,
+                    "duration": 0.36999893,
+                    "text": "gekende",
+                    "conf": 0.47,
+                    "pristine": true
+                },
+                {
+                    "start": 47.73,
+                    "end": 48.12,
+                    "duration": 0.3899994,
+                    "text": "Chopins.",
+                    "conf": 0.43,
+                    "pristine": true
+                },
+                {
+                    "start": 51.66,
+                    "end": 52.14,
+                    "duration": 0.47999954,
+                    "text": "Alleen.",
+                    "conf": 0.16,
+                    "pristine": true
+                },
+                {
+                    "start": 61.09,
+                    "end": 61.7,
+                    "duration": 0.6100006,
+                    "text": "Aangegeven",
+                    "conf": 0.4,
+                    "pristine": true
+                },
+                {
+                    "start": 61.75,
+                    "end": 62,
+                    "duration": 0.25,
+                    "text": "bij",
+                    "conf": 0.55,
+                    "pristine": true
+                },
+                {
+                    "start": 62.41,
+                    "end": 62.87,
+                    "duration": 0.45999908,
+                    "text": "Jali.",
+                    "conf": 0.26,
+                    "pristine": true
+                },
+                {
+                    "start": 73.39,
+                    "end": 73.58,
+                    "duration": 0.19000244,
+                    "text": "Ja,",
+                    "conf": 0.58,
+                    "pristine": true
+                },
+                {
+                    "start": 73.79,
+                    "end": 73.94,
+                    "duration": 0.15000153,
+                    "text": "ik",
+                    "conf": 0.88,
+                    "pristine": true
+                },
+                {
+                    "start": 73.94,
+                    "end": 74.48,
+                    "duration": 0.5400009,
+                    "text": "betwijfel",
+                    "conf": 0.91,
+                    "pristine": true
+                },
+                {
+                    "start": 74.48,
+                    "end": 74.6,
+                    "duration": 0.11999512,
+                    "text": "of",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 74.6,
+                    "end": 74.76,
+                    "duration": 0.16000366,
+                    "text": "dit",
+                    "conf": 0.35,
+                    "pristine": true
+                },
+                {
+                    "start": 74.96,
+                    "end": 75.32,
+                    "duration": 0.3600006,
+                    "text": "omdat",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 75.32,
+                    "end": 75.41,
+                    "duration": 0.09000397,
+                    "text": "er",
+                    "conf": 0.93,
+                    "pristine": true
+                },
+                {
+                    "start": 75.47,
+                    "end": 75.62,
+                    "duration": 0.15000153,
+                    "text": "dit",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 75.62,
+                    "end": 75.77,
+                    "duration": 0.1499939,
+                    "text": "jaar",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 75.77,
+                    "end": 76.06,
+                    "duration": 0.29000092,
+                    "text": "zelfs",
+                    "conf": 0.94,
+                    "pristine": true
+                },
+                {
+                    "start": 76.07,
+                    "end": 76.13,
+                    "duration": 0.05999756,
+                    "text": "een",
+                    "conf": 0.73,
+                    "pristine": true
+                },
+                {
+                    "start": 76.14,
+                    "end": 76.34,
+                    "duration": 0.19999695,
+                    "text": "heuse",
+                    "conf": 0.51,
+                    "pristine": true
+                },
+                {
+                    "start": 76.37,
+                    "end": 77.06,
+                    "duration": 0.6899948,
+                    "text": "staking",
+                    "conf": 0.74,
+                    "pristine": true
+                },
+                {
+                    "start": 77.87,
+                    "end": 78.14,
+                    "duration": 0.26999664,
+                    "text": "aanwezig",
+                    "conf": 0.34,
+                    "pristine": true
+                },
+                {
+                    "start": 78.2,
+                    "end": 78.71,
+                    "duration": 0.51000214,
+                    "text": "study",
+                    "conf": 0.24,
+                    "pristine": true
+                },
+                {
+                    "start": 80.06,
+                    "end": 80.2,
+                    "duration": 0.13999939,
+                    "text": "of",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 80.21,
+                    "end": 80.41,
+                    "duration": 0.20000458,
+                    "text": "dat",
+                    "conf": 0.5,
+                    "pristine": true
+                },
+                {
+                    "start": 80.96,
+                    "end": 81.19,
+                    "duration": 0.23000336,
+                    "text": "wordt",
+                    "conf": 0.72,
+                    "pristine": true
+                },
+                {
+                    "start": 81.2,
+                    "end": 81.84,
+                    "duration": 0.6399994,
+                    "text": "voorbereid.",
+                    "conf": 0.64,
+                    "pristine": true
+                },
+                {
+                    "start": 82.07,
+                    "end": 82.53,
+                    "duration": 0.45999908,
+                    "text": "Okay,",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 83.06,
+                    "end": 83.13,
+                    "duration": 0.069999695,
+                    "text": "ik",
+                    "conf": 0.61,
+                    "pristine": true
+                },
+                {
+                    "start": 83.15,
+                    "end": 83.33,
+                    "duration": 0.1800003,
+                    "text": "gewoon",
+                    "conf": 0.58,
+                    "pristine": true
+                },
+                {
+                    "start": 83.33,
+                    "end": 83.67,
+                    "duration": 0.33999634,
+                    "text": "meteen",
+                    "conf": 0.81,
+                    "pristine": true
+                },
+                {
+                    "start": 83.67,
+                    "end": 83.75,
+                    "duration": 0.08000183,
+                    "text": "een",
+                    "conf": 0.79,
+                    "pristine": true
+                },
+                {
+                    "start": 83.75,
+                    "end": 84.05,
+                    "duration": 0.30000305,
+                    "text": "oude",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 84.05,
+                    "end": 84.44,
+                    "duration": 0.3899994,
+                    "text": "gewoonte",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 84.68,
+                    "end": 84.95,
+                    "duration": 0.26999664,
+                    "text": "van",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 84.95,
+                    "end": 85.1,
+                    "duration": 0.15000153,
+                    "text": "om",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 85.1,
+                    "end": 85.19,
+                    "duration": 0.09000397,
+                    "text": "een",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 85.19,
+                    "end": 85.55,
+                    "duration": 0.3600006,
+                    "text": "groot",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 89.12,
+                    "end": 89.39,
+                    "duration": 0.26999664,
+                    "text": "deel",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 90.78,
+                    "end": 91.03,
+                    "duration": 0.25,
+                    "text": "van",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 92.99,
+                    "end": 93.31,
+                    "duration": 0.3199997,
+                    "text": "die",
+                    "conf": 0.67,
+                    "pristine": true
+                },
+                {
+                    "start": 93.76,
+                    "end": 93.87,
+                    "duration": 0.11000061,
+                    "text": "gewoon",
+                    "conf": 0.53,
+                    "pristine": true
+                },
+                {
+                    "start": 94.46,
+                    "end": 94.94,
+                    "duration": 0.48000336,
+                    "text": "rocker",
+                    "conf": 0.53,
+                    "pristine": true
+                },
+                {
+                    "start": 97.19,
+                    "end": 97.52,
+                    "duration": 0.3299942,
+                    "text": "waren",
+                    "conf": 0.96,
+                    "pristine": true
+                },
+                {
+                    "start": 99.29,
+                    "end": 99.67,
+                    "duration": 0.37999725,
+                    "text": "deels",
+                    "conf": 0.23,
+                    "pristine": true
+                },
+                {
+                    "start": 99.78,
+                    "end": 99.94,
+                    "duration": 0.16000366,
+                    "text": "op",
+                    "conf": 0.85,
+                    "pristine": true
+                },
+                {
+                    "start": 99.97,
+                    "end": 100.37,
+                    "duration": 0.40000153,
+                    "text": "snelheid",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 101.06,
+                    "end": 101.2,
+                    "duration": 0.13999939,
+                    "text": "hebben",
+                    "conf": 0.81,
+                    "pristine": true
+                },
+                {
+                    "start": 101.37,
+                    "end": 101.63,
+                    "duration": 0.2599945,
+                    "text": "laten",
+                    "conf": 0.94,
+                    "pristine": true
+                },
+                {
+                    "start": 101.63,
+                    "end": 101.93,
+                    "duration": 0.30000305,
+                    "text": "gaan.",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 102.39,
+                    "end": 102.83,
+                    "duration": 0.44000244,
+                    "text": "Euh",
+                    "conf": 0.86,
+                    "pristine": true
+                },
+                {
+                    "start": 103.04,
+                    "end": 103.34,
+                    "duration": 0.29999542,
+                    "text": "ja,",
+                    "conf": 0.92,
+                    "pristine": true
+                },
+                {
+                    "start": 103.61,
+                    "end": 104.21,
+                    "duration": 0.5999985,
+                    "text": "dr.",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 104.72,
+                    "end": 104.93,
+                    "duration": 0.20999908,
+                    "text": "Voor",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 104.93,
+                    "end": 105.65,
+                    "duration": 0.7200012,
+                    "text": "zover",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.31,
+                    "end": 106.46,
+                    "duration": 0.15000153,
+                    "text": "ik",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.46,
+                    "end": 106.61,
+                    "duration": 0.15000153,
+                    "text": "nu",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 106.61,
+                    "end": 106.79,
+                    "duration": 0.1800003,
+                    "text": "kan",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 106.79,
+                    "end": 107.04,
+                    "duration": 0.25,
+                    "text": "lezen",
+                    "conf": 0.66,
+                    "pristine": true
+                },
+                {
+                    "start": 107.07,
+                    "end": 107.35,
+                    "duration": 0.27999878,
+                    "text": "gaat",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 107.35,
+                    "end": 107.42,
+                    "duration": 0.069999695,
+                    "text": "die",
+                    "conf": 0.45,
+                    "pristine": true
+                },
+                {
+                    "start": 107.42,
+                    "end": 107.78,
+                    "duration": 0.3600006,
+                    "text": "gewoon",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 107.78,
+                    "end": 108.41,
+                    "duration": 0.6300049,
+                    "text": "vanmiddag",
+                    "conf": 0.99,
+                    "pristine": true
+                },
+                {
+                    "start": 109.25,
+                    "end": 109.52,
+                    "duration": 0.26999664,
+                    "text": "verder.",
+                    "conf": 0.61,
+                    "pristine": true
+                },
+                {
+                    "start": 111.11,
+                    "end": 111.28,
+                    "duration": 0.16999817,
+                    "text": "Ja",
+                    "conf": 0.82,
+                    "pristine": true
+                },
+                {
+                    "start": 112.29,
+                    "end": 112.56,
+                    "duration": 0.26999664,
+                    "text": "ja,",
+                    "conf": 0.85,
+                    "pristine": true
+                },
+                {
+                    "start": 113.72,
+                    "end": 114.1,
+                    "duration": 0.37999725,
+                    "text": "ja",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 114.26,
+                    "end": 114.58,
+                    "duration": 0.3199997,
+                    "text": "schreeuwt",
+                    "conf": 0.31,
+                    "pristine": true
+                },
+                {
+                    "start": 114.62,
+                    "end": 114.86,
+                    "duration": 0.23999786,
+                    "text": "jong",
+                    "conf": 0.97,
+                    "pristine": true
+                },
+                {
+                    "start": 116.31,
+                    "end": 116.48,
+                    "duration": 0.1700058,
+                    "text": "is",
+                    "conf": 0.8,
+                    "pristine": true
+                },
+                {
+                    "start": 116.51,
+                    "end": 116.78,
+                    "duration": 0.26999664,
+                    "text": "rood",
+                    "conf": 0.83,
+                    "pristine": true
+                },
+                {
+                    "start": 116.78,
+                    "end": 117.08,
+                    "duration": 0.30000305,
+                    "text": "geel",
+                    "conf": 0.73,
+                    "pristine": true
+                },
+                {
+                    "start": 117.11,
+                    "end": 117.44,
+                    "duration": 0.33000183,
+                    "text": "voor",
+                    "conf": 0.95,
+                    "pristine": true
+                },
+                {
+                    "start": 117.71,
+                    "end": 118.21,
+                    "duration": 0.5,
+                    "text": "Jo",
+                    "conf": 0.98,
+                    "pristine": true
+                },
+                {
+                    "start": 118.37,
+                    "end": 118.49,
+                    "duration": 0.11999512,
+                    "text": "De",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 118.49,
+                    "end": 118.88,
+                    "duration": 0.3899994,
+                    "text": "Ro.",
+                    "conf": 0.98,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}
