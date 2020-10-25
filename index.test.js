@@ -5,8 +5,8 @@ var main = require('./index.js')
 
 // initial test variables
 var fs = require('fs')
-const file1 = parse(fs.readFileSync('./mocks/nl_5-channel1.json','utf8'))
-const file2 = parse(fs.readFileSync('./mocks/nl_5-channel2.json','utf8'))
+const file1 = parse(fs.readFileSync('./mocks/nl_2-channel1.json','utf8'))
+const file2 = parse(fs.readFileSync('./mocks/nl_2-channel2.json','utf8'))
 
 
 // A Test function that tests the existance of an overlap
