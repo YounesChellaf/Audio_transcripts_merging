@@ -85,6 +85,11 @@ function mergeTranscripts (transcript1, transcript2){
     // Initialize shift on 0 in the beginning where there is no overlap 
     var shift = 0
 
+    var sentenceStructure = false
+
+    // Accepted interuption words 
+    var acceptedInteruption = ['Ja','Nee','Nein']
+
     // @ This algorithm for merging two transcript is based on the standard sort merge arrays in algorithmics,
     // We make a while iteration for both tables (Transcript.segments) with checking the condition of smaller than 
     // Inside the first While, we build a subSegment and when the inferiority condition switch, we push the subSegment
@@ -98,44 +103,62 @@ function mergeTranscripts (transcript1, transcript2){
 
 
     // Start iterating on both segments arrays and building the mergedTranscript
-    while (index1< transcriptWords1.length && index2 < transcriptWords2.length ){
+    while (index1< transcriptWords1.length && index2 < transcriptWords2.length  ){
 
       // The second part of the condition is for keeping the structure of the sentence while the speaker still talking 
-      if ( transcriptWords1[index1].start < transcriptWords2[index2].start || ( index1>0 && transcriptWords1[index1-1].end == transcriptWords1[index1].start) )
-      //if ( transcriptWords1[index1].start < transcriptWords2[index2].start)
+
+      if ( transcriptWords1[index1].start < transcriptWords2[index2].start )
       {
+
         // push the created subSegment from transcript 2 (speaker 2)
-        if (subSegment2.words.length > 0 ){
-        // mergeTranscript.segments.push(subSegment2)
+        // This condition is to consider just the single words interuption if it's YES or NO in dutch/deutch
+        if (subSegment2.words.length > 1 || (subSegment2.words.length ==1 && acceptedInteruption.includes(subSegment2.words[0].text) ) )
+        {  
           addNewSegment(mergeTranscript,subSegment2,mergeIndex,"spk2")
           mergeIndex++
           subSegment2.words = []
-        }
+        }  
+
         // build a subSegment for speaker 1 from Transcript1
         subSegment1.words.push(timestampShift(transcriptWords1[index1],shift))
         index1++
 
-         // check if the there is an overlap timestamp, Shift is the difference between words timestamp => it will considered as an overlap if > 0
-        shift = shift + transcriptWords1[index1-1].end  -  transcriptWords2[index2].start
+        // An iteration to keep the sentence structure and not interup it with sentence from transcript2 while the off-time is less than 0.3s
+        while (index1<transcriptWords1.length && transcriptWords1[index1-1].end+0.3 >= transcriptWords1[index1].start ){
+            subSegment1.words.push(timestampShift(transcriptWords1[index1],shift))
+            index1++ 
+        }
 
-    }
+ 
+        // check if the there is an overlap timestamp, Shift is the difference between words timestamp => it will considered as an overlap if > 0
+        shift = transcriptWords1[index1-1].end  -  transcriptWords2[index2].start
+      }
       // The Else condition with checking second part of the condition to keep the structure of the sentence while the speaker still talking
-      else if ( transcriptWords2[index2].start <= transcriptWords1[index1].start  || (index2>0 && transcriptWords2[index2-1].end == transcriptWords2[index2].start )  )
-      //else
-      {
+    
+        // else
+      else
+        {
         // push the created segment from transcript 2 (speaker 2)
-        if (subSegment1.words.length > 0 ){
+        // This condition is to consider just the single words interuption if it's YES or NO in dutch/deutch
+        if (subSegment1.words.length > 1 || (subSegment1.words.length ==1 && acceptedInteruption.includes(subSegment1.words[0].text) ) )
+        {
           addNewSegment(mergeTranscript,subSegment1,mergeIndex,"spk1")
           mergeIndex++
           subSegment1.words = []
         }
+
         // build a segment for speaker 1
         subSegment2.words.push(timestampShift(transcriptWords2[index2],shift))
         index2++
+        // An iteration to keep the sentence structure and not interup it with sentence from transcript1 while the off-time is less than 0.3s
+        while (index2<transcriptWords2.length && transcriptWords2[index2-1].end +0.3 >= transcriptWords2[index2].start ){
+            subSegment2.words.push(timestampShift(transcriptWords2[index2],shift))
+            index2++
+        }
 
         // check if the there is an overlap timestamp, Shift is the difference between words timestamp => it will considered as an overlap if > 0
-        shift = shift +  transcriptWords2[index2-1].end  -  transcriptWords1[index1].start
-      }
+        shift = transcriptWords2[index2-1].end  -  transcriptWords1[index1].start
+        }
     }
 
     // Add the rest of segments from Transcript 1 to the subSegment1 before pushing to the mergedTranscript
@@ -175,35 +198,29 @@ function mergeTranscripts (transcript1, transcript2){
         mergeIndex++
         subSegment2.words = []
     }
-
     return mergeTranscript
   }
 
 
 
-const index = () => {
+const main = () => {
 
     fs = require('fs')
     const file1 = parse(fs.readFileSync('./mocks/nl_5-channel1.json','utf8'))
     const file2 = parse(fs.readFileSync('./mocks/nl_5-channel2.json','utf8'))
-    var k =mergeTranscripts(file1, file2).segments.length
 
+    var i=0 
 
-    // //var data = mergeTranscripts(file1, file2)
-    // //overlapTest(mergeTranscripts(file1, file2))
-
-     var i=0 
-
-    while( i < k){ 
+    while( i < mergeTranscripts(file1, file2).segments.length){ 
         console.log(mergeTranscripts(file1, file2).segments[i].words.length)
         i++
-    }
+    }   
 
-    // console.log(mergeTranscripts(file1, file2).segments[2])
+    //console.log(mergeTranscripts(file1, file2).segments[8])
     // console.log(mergeTranscripts(file1, file2).segments[3])
-    // console.log(mergeTranscripts(file1, file2).segments[4])
+    //console.log(mergeTranscripts(file1, file2).segments[2])
 
-    // fs.writeFile('./result.json', JSON.stringify(data),'utf', (err) => {
+    // fs.writeFile('./mergedTranscriptsResult/result.json', JSON.stringify(data),'utf', (err) => {
     //     if (err) {
     //         throw err;
     //     }
@@ -211,6 +228,6 @@ const index = () => {
     // });
 } 
 
-index()
+main()
 
 exports.mergeTranscripts = mergeTranscripts 
