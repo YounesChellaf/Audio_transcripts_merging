@@ -1,4 +1,4 @@
-# AmberScript Test ( merging two transcript)
+Transcripts merging
 
 A nodeJs script to merge two transcripts into one mergedScript and manage timestamp overlap
 
